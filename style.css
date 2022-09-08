@@ -25,6 +25,10 @@ header a{
     text-decoration: none;
     margin-right: 32px;
 }
+.nav__item:hover {
+    color: red;
+}
+
 /*оформление первой секции*/
 .section1{
     display: flex;
