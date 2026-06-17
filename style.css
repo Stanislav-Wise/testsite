@@ -174,4 +174,8 @@ header a{
     font-weight: 500;
     font-size: 12px;
     color: #7608AA;
-}
+}statya-text a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    color: #7608AA;
